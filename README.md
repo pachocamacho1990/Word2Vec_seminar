@@ -4,3 +4,5 @@
 
 Introducing embeddings with Word2Vec Family !
 
+* To see the rendered notebook [click here](https://nbviewer.jupyter.org/github/pachocamacho1990/Word2Vec_seminar/blob/master/working_example_word2vec.ipynb)
+
