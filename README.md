@@ -1,5 +1,5 @@
 ```
-Introducing embeddings with Word2Vec Family !
++Introducing embeddings with Word2Vec Family !
 ```
 
 # SEMINARIO INTERDISCIPLINAR DE CIENCIAS - Ciencia de datos y Aprendizaje de máquinas - Charla 01 - 2019-I
