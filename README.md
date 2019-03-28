@@ -4,7 +4,7 @@
 
 Introducing embeddings with Word2Vec Family !
 
-* To see the rendered notebook [**click here**](https://nbviewer.jupyter.org/github/pachocamacho1990/Word2Vec_seminar/blob/master/working_example_word2vec.ipynb)
+* To see the rendered notebook (non-executable version) [**click here**](https://nbviewer.jupyter.org/github/pachocamacho1990/Word2Vec_seminar/blob/master/working_example_word2vec.ipynb)
 
 * **Abstract of the talk:** In the  growing  and  fast-changing  field  of  machine  learning,  one  of  the  most  important  areas  of research and application is Natural  Language Processing (NLP).  This concerns the application of computational techniques to analyze and synthetize large volumesof written and spoken language data. Sincecomputers  are  designed  to  work  with  numerical  and  well-structured data,  the  main problem with NLP is finding ways to  transform natural language data (which is non-numerical and unstructured) into structured numerical data that is suitable for machine learning algorithms. In this sense,  the  term  word  embedding  refers  to  a  class  of  techniques  that  are  specifically  designed  to perform this kind of data transformation. 
 
