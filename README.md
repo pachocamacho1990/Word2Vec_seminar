@@ -19,4 +19,4 @@ In  this  talk  we will introduce  the  concept of  word  embedding  and  discus
 
 <p align="center">
 [![Watch the video](https://img.youtube.com/vi/bAhD0QdmXJ0/hqdefault.jpg)](https://youtu.be/bAhD0QdmXJ0)
-<p>
+</p>
