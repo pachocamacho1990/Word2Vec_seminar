@@ -15,4 +15,4 @@ In  this  talk  we will introduce  the  concept of  word  embedding  and  discus
 
 * To see the rendered notebook (non-executable version) [**click here**](https://nbviewer.jupyter.org/github/pachocamacho1990/Word2Vec_seminar/blob/master/working_example_word2vec.ipynb)
 
-* Short-tutorial on how to execute the notebook from the Google Colaboratory environment [![Watch the video](https://img.youtube.com/vi/bAhD0QdmXJ0/maxresdefault.jpg)](https://youtu.be/bAhD0QdmXJ0)
+* Short-tutorial on how to execute the notebook from the Google Colaboratory environment [![Watch the video](https://img.youtube.com/vi/bAhD0QdmXJ0/hqdefault.jpg)](https://youtu.be/bAhD0QdmXJ0)
