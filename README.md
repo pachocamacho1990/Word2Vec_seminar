@@ -2,3 +2,5 @@
 
 #### HOW CAN WE TEACH A MACHINE TO UNDERSTAND AND ANALYZE HOW PEOPLE COMMUNICATE?
 
+Introducing embeddings with Word2Vec Family !
+
